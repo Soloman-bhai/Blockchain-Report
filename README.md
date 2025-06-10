@@ -1,1 +1,1 @@
-<img src="Blockchain-Comparison.png" alt="Blockchain Comparison" style="width: 100%; height: auto;">
+<img src="markdownlivepreview.dev_.png" alt="Blockchain Comparison" style="width: 100%; height: auto;">
