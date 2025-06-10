@@ -8,7 +8,7 @@ This image represents a mini task outlined in the shared document at
 <br/>
 <br/>
 
-<img src="markdownlivepreview.dev_.png" alt="Blockchain Comparison" style="width: 100%; height: auto;">
+<img src="Blockchain-Report.png" alt="Blockchain Comparison" style="width: 100%; height: auto;">
 
 ---
 
